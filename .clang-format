@@ -1,0 +1,47 @@
+---
+# Based on CS50 Style Guide
+Language: Cpp
+
+# Line Length
+ColumnLimit: 100
+
+# Indentation
+IndentWidth: 4
+UseTab: Never
+
+# Braces
+BreakBeforeBraces: Allman
+SpacesInParentheses: false
+
+# Conditionals and Loops
+SpaceAfterCStyleCast: false
+SpaceBeforeParens: ControlStatements
+
+# Pointer Alignment
+PointerAlignment: Left
+
+# Variable Declarations
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+
+# Function Definitions
+AlwaysBreakBeforeMultilineStrings: false
+BinPackParameters: true
+
+# Alignment
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+
+# Sort Includes
+SortIncludes: true
+
+# Comments
+CommentPragmas: '^ IWYU pragma:'
+
+# Other Specific Rules
+SpaceBeforeAssignmentOperators: true
+SpaceInEmptyParentheses: false
+SpacesBeforeTrailingComments: 1
+
+# Specific to C-style languages
+Standard: Cpp11
