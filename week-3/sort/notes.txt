@@ -1,0 +1,40 @@
+sort1
+random5000     0.063
+random10000    0.259
+random50000    8.005
+
+sorted5000     0.002
+sorted10000    0.002
+sorted50000    0.007
+
+reversed5000   0.060
+reversed10000  0.198
+reversed50000  4.726
+
+
+sort3
+random5000     0.042
+random10000    0.131
+random50000    3.001
+
+sorted5000     0.041
+sorted10000    0.131
+sorted50000    2.959
+
+reversed5000   0.033
+reversed10000  0.127
+reversed50000  3.104
+
+
+sort2
+random5000     0.003
+random10000    0.006
+random50000    0.019
+
+sorted5000     0.004
+sorted10000    0.007
+sorted50000    0.014
+
+reversed5000   0.002
+reversed10000  0.008
+reversed50000  0.024
